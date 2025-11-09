@@ -8,8 +8,9 @@ dependencies = [
   "langchain-core>=0.3,<0.4",
   "langchain-openai>=0.2,<0.3",
   "python-dotenv>=1.0",
-  "rich>=13",          # 14.x gibt es (noch) nicht stabil
+  "rich>=13", # 14.x gibt es (noch) nicht stabil
   "ruff>=0.5",
   "ty>=0.0.1a25",
   "jupyter>=1.0",
+  "grandalf>=0.8",
 ]
