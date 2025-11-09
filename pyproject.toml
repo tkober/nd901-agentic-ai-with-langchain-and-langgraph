@@ -9,6 +9,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "langchain>=1.0.5",
     "langchain-openai>=1.0.2",
+    "rich>=14.2.0",
     "ruff>=0.14.4",
     "ty>=0.0.1a25",
 ]
