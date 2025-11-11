@@ -1,0 +1,11 @@
+{
+  "ty.enabled": true,
+  "ty.checkOnSave": true,
+  "ty.diagnosticsMode": "openFilesOnly",
+  "ty.showInProblems": true,
+  "ty.severity": "error",
+  "ty.logLevel": "info",
+
+  "ruff.enable": true,
+  "ruff.lintOnSave": true
+}
