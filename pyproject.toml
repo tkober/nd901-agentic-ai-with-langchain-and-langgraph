@@ -13,4 +13,5 @@ dependencies = [
   "ty>=0.0.1a25",
   "jupyter>=1.0",
   "grandalf>=0.8",
+  "langgraph>=1.0.1",
 ]
