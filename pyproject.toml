@@ -18,4 +18,5 @@ dependencies = [
   "pandas>=2.3.3",
   "langchain-chroma>=0.2.6",
   "langchain-community>=0.3.31",
+  "pypdf>=6.4.0",
 ]
