@@ -6,7 +6,7 @@ requires-python = ">=3.12"
 dependencies = [
   "langchain>=0.3,<0.4",
   "langchain-core>=0.3,<0.4",
-  "langchain-openai>=0.2,<0.3",
+  "langchain-openai>=0.3,<0.4",
   "python-dotenv>=1.0",
   "rich>=13", # 14.x gibt es (noch) nicht stabil
   "ruff>=0.5",
@@ -21,4 +21,5 @@ dependencies = [
   "pypdf>=6.4.0",
   "mlflow>=3.6.0",
   "ragas>=0.3.9",
+  "langmem>=0.0.30",
 ]
